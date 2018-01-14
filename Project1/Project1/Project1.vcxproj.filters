@@ -27,6 +27,9 @@
     <ClInclude Include="set.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="chtbl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="list.c">
@@ -42,6 +45,9 @@
       <Filter>Resource Files</Filter>
     </ClCompile>
     <ClCompile Include="set.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="chtbl.c">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>

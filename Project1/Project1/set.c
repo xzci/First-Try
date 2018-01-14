@@ -67,8 +67,8 @@ int set_union(Set *setu, const Set *set1, const Set *set2)
 				return -1;
 			}
 		}
-		return 0;
 	}
+	return 0;
 }
 
 int set_intersection(Set *seti, const Set *set1, const Set *set2)
